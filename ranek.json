@@ -1,0 +1,67 @@
+{
+  "transacao": [
+    {
+      "purchaser_id": "fabricioguimaraes55@gmail.com",
+      "saller_id": "fabricioguimaraes55@gmail.com",
+      "product": {
+        "fotos": [
+          {
+            "src": "https://placehold.co/600x400",
+            "titulo": "Foto do produto"
+          },
+          {
+            "src": "https://placehold.co/600x400",
+            "titulo": "Foto do speaker"
+          }
+        ],
+        "vendido": "false",
+        "nome": "Notebook Gamer",
+        "preco": "5000",
+        "descricao": "rerer",
+        "user_id": "fabricioguimaraes55@gmail.com",
+        "id": 1
+      },
+      "endereco": {
+        "cep": "25585540",
+        "rua": "Rua Luís Fernando Barbosa Ilmo",
+        "numero": "0",
+        "cidade": "São João de Meriti",
+        "estado": "RJ"
+      },
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "nome": "Fabrício Guimarães",
+      "email": "fabricioguimaraes55@gmail.com",
+      "password": "password",
+      "cep": "25585540",
+      "rua": "Rua Luís Fernando Barbosa Ilmo",
+      "cidade": "São João de Meriti",
+      "estado": "RJ",
+      "numero": "0",
+      "id": "fabricioguimaraes55@gmail.com"
+    }
+  ],
+  "produtos": [
+    {
+      "fotos": [
+        {
+          "src": "https://placehold.co/600x400",
+          "titulo": "Foto do produto"
+        },
+        {
+          "src": "https://placehold.co/600x400",
+          "titulo": "Foto do speaker"
+        }
+      ],
+      "vendido": "false",
+      "nome": "Notebook Gamer",
+      "preco": "5000",
+      "descricao": "rerer",
+      "user_id": "fabricioguimaraes55@gmail.com",
+      "id": 1
+    }
+  ]
+}
